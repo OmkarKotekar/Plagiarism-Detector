@@ -1,3 +1,1 @@
-This is the content of file 1.
-It contains some text for testing purposes.
-Hello, world!
+abcd hsiu hkal
